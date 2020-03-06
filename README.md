@@ -1,1 +1,3 @@
-Practicing using GitHub, more folder structure and general tidiness.
+**Practicing using GitHub, more folder structure and general tidiness.**
+
+Not sure how to bold, or change text size yet...
