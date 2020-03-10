@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace OOPcs_Mod1_SelfAssessmentLab
 {
-    public class UProgram
+    class UProgram
     {
         // Defining properties
+        public Degree UProgramDegree { get; set; }
         public string Name { get; set; }
         public string Degree { get; set; }
 

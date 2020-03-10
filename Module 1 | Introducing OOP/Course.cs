@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace OOPcs_Mod1_SelfAssessmentLab
 {
-    public class Course
+    class Course
     {
+        // Defining properties
         public string Name { get; set; }
         public int EnrolledStudents { get; set; }
         public int Professors { get; set; }
